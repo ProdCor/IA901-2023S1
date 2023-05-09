@@ -9,7 +9,7 @@ oferecida no primeiro semestre de 2023, na Unicamp, sob supervisão da Profa. Dr
 > Incluir nome RA e foco de especialização de cada membro do grupo. Os projetos devem ser desenvolvidos em trios.
 > |Nome  | RA | Curso|
 > |--|--|--|
-> | Eduardo Parducci  | 170272  | Graduação em Eng. de Computação|
+> | Eduardo Parducci  | 170272  | Graduação em Engenharia de Computação|
 > | Nome2  | 123456  | Graduação em xxx|
 > | Pedro Rodrigues Corrêa  | 243236  | Graduação em Física|
 
